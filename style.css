@@ -59,7 +59,7 @@ form {
     margin-top: 5px;
     width: 260px;
     height:125px;
-    /* display:none; */
+    display:none;
 }
 
 .placeholder img {
